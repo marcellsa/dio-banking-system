@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu projeto em construção! Este é um espaço dedicado ao desenvolvimento contínuo e está sujeito a mudanças constantes. Aqui estão algumas informações iniciais sobre o projeto.
 
-## 🔨 Objetivo
+## 🛠️ Objetivo
 
 O objetivo deste projeto é [descrever o objetivo do projeto em uma frase concisa].
 
@@ -18,7 +18,7 @@ Atualmente, o projeto está em fase inicial de desenvolvimento. Ainda estou expl
 
 Observe que essas funcionalidades estão sujeitas a alterações à medida que o projeto avança.
 
-## 🤝 Como Contribuir
+## 👥 Como Contribuir
 
 Neste momento, o projeto ainda está em uma fase em que estou trabalhando sozinho nele. No entanto, no futuro, pretendo abrir espaço para contribuições externas. Se você estiver interessado em contribuir, por favor, entre em contato comigo para discutirmos possíveis colaborações.
 
