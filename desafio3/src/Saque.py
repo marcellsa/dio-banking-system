@@ -1,4 +1,4 @@
-from Transacao import Transacao
+from src.transacao import Transacao
 
 
 class Saque(Transacao):

@@ -1,4 +1,4 @@
-from Historico import Historico
+from src.historico import Historico
 
 
 class Conta:

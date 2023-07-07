@@ -1,5 +1,5 @@
-from Conta import Conta
-from Saque import Saque
+from src.conta import Conta
+from src.saque import Saque
 
 
 class ContaCorrente(Conta):

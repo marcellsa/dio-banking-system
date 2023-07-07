@@ -1,4 +1,4 @@
-from Cliente import Cliente
+from src.cliente import Cliente
 
 
 class PessoaFisica(Cliente):
